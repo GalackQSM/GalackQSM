@@ -1,6 +1,6 @@
 
 ### Mes informations
-- 🔭 Comment me contacter: [Discord](https://discord.com/user/482517667945906177)
+- 🔭 Comment me contacter: [Discord](https://discord.gg/ZjnGDXGHw7)
 - 🌱 Je développe mes projets en language __JavaScript__, __CSharp__
 
 ### Mes projets
