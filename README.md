@@ -1,7 +1,7 @@
 
 ### Mes informations
 - 🔭 Comment me contacter: [Discord](https://discord.gg/sma88qzTgw) | [YouTube](https://youtube.com/channel/UCi4jHrq0SEXrcm9xxWHWtag) 
-- 🌱 Je développe mes projets en language __JavaScript__, __CSharp__, __Html__
+- 🌱 Je développe mes projets en language __JavaScript__, __CSharp__, __Html__, __PHP__
 
 ### Mes projets actuels 
 - [Saturne-Gen](https://saturne-gen.xyz)
