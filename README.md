@@ -1,6 +1,6 @@
 
 ### Mes informations
-- 🔭 Comment me contacter: [Discord](https://discord.gg/sma88qzTgw) | [YouTube](https://youtube.com/channel/UCi4jHrq0SEXrcm9xxWHWtag) 
+- 🔭 Comment me contacter: [Discord](https://discord.gg/saturnetools) | [Twitter](https://twitter.com/Galack_QSM) 
 - 🌱 Je développe mes projets en language __JavaScript__, __CSharp__, __Html__, __PHP__, __Python__
 
 ### Mes projets actuels 
