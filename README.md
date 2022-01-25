@@ -4,9 +4,10 @@
 - 🌱 Je développe mes projets en language __JavaScript__, __CSharp__, __Html__, __PHP__
 
 ### Mes projets actuels 
-- [Saturne-Gen](https://saturne-gen.xyz)
+- [Saturne Lounge](https://discord.gg/saturnetools)
 
 ### Mes anciens projets 
+- Saturne-Gen
 - Game&Crack
 - Alcatraz-Bot
 - Legend-KI
