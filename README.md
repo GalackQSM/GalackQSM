@@ -4,7 +4,7 @@
 - 🌱 Je développe mes projets en language __JavaScript__, __CSharp__, __Html__, __PHP__, __Python__
 
 ### Mes projets actuels 
-- [French-Cracking](https://discord.gg/EwNjXAyn7Y)
+- [French-Cracking](https://french-cracking.com/)
 
 ### Mes anciens projets 
 - Saturne-Gen
